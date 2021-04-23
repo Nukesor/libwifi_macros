@@ -1,6 +1,7 @@
 [package]
 name = "libwifi_macros"
 version = "0.0.0"
+description = "A library providing macros for the libwifi crate."
 authors = ["Arne Beer <contact@arne.beer>"]
 edition = "2018"
 
